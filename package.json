@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.616.0",
     "disconnect": "^1.2.2",
     "next": "14.2.5",
     "react": "^18",
